@@ -1,0 +1,9 @@
+#Search {
+    max-width: 50rem;
+    max-height: 100%;
+    margin: 2rem auto;
+    background: #f64c72;
+    background-size: cover;
+    padding: 1rem;
+    border-radius: 20px;
+}
